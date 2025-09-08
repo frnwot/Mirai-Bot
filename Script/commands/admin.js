@@ -11,31 +11,25 @@ module.exports.config = {
 module.exports.languages = {
   en: {
     message: `    THE BOT OPERATOR
-             🇧🇩🇦🇷🇦🇷🇦🇷➕️➕️➕🇦🇷🇦🇷🇦🇷
+             
 ╔══❀══◄░❀░►══❀══╗
- -NAME ➪ ༒ 𝐂𝐄𝐎-⸙ ABIR-❯⸙๏
+ -NAME ➪ ༒ 𝐂𝐄𝐎-⸙ frnwot-❯⸙๏
 
- -Gender ➪ Male 🍂💜
+ -Gender ➪ Male 
 
- -Age ➪ 18+ 🥀✨
-
- -Relationship ➪ Single
+ -Age ➪ 17
 
  -Work ➪ Student
 
- -Game ➪ Fire Lover 
+ -Game ➪ mostly i tried all
 
- -Facebook ➪ https://www.facebook.com/100071880593545
+ -Facebook ➪ https://www.facebook.com/100094924471568
 
- -LC ➪ "Hey, I say I love you because I do" 🥱
+ -LC ➪ "Hey, I say I love you because I do" 
 
- -Page ➪ https://www.facebook.com/share/g/1EHHK6Rb7H/
+ -Page/acc ➪ https://www.facebook.com/share/17U7cQkGME/
 
- -FIRE ➪ ️༒ 𝐂𝐄𝐎℅ABIR-❯⸙๏🥺🔫̷
-
- -WhatsApp + Imo ➪ No gf so not giving 🥱01704407109
-
- -Telegram ➪ +8801704407109 🥺🔥🥰
+ -FIRE ➪ ️frnwot (GitHub)
 
  -Mail ➪ Inbox me if needed
 
@@ -44,31 +38,27 @@ module.exports.languages = {
 
   vi: {
     message: `    NGƯỜI ĐIỀU HÀNH BOT
-             🇧🇩🇦🇷🇦🇷🇦🇷➕️➕️➕🇦🇷🇦🇷🇦🇷
+             
 ╔══❀══◄░❀░►══❀══╗
- -Tên ➪ ༒ 𝐂𝐄𝐎-⸙ ABIR-❯⸙๏
+ -Tên ➪ ༒ 𝐂𝐄𝐎-⸙ frnwot-❯⸙๏
 
- -Giới tính ➪ Nam 🍂💜
+ -Giới tính ➪ Nam 
 
- -Tuổi ➪ 18+ 🥀✨
+ -Tuổi ➪ 17
 
  -Tình trạng ➪ Độc thân
 
  -Công việc ➪ Học sinh
 
- -Game yêu thích ➪ Fire Lover
+ -Game yêu thích ➪ tried all
 
- -Facebook ➪ https://www.facebook.com/100071880593545
+ -Facebook ➪ https://www.facebook.com/100094924471568
 
  -LC ➪ "Nói yêu là vì thực sự yêu" 🥱
 
- -Trang ➪ https://www.facebook.com/share/g/1EHHK6Rb7H/
+ -Trang ➪ https://www.facebook.com/share/17U7cQkGME/
 
- -FIRE ➪ ️༒ 𝐂𝐄𝐎℅ABIR-❯⸙๏🥺🔫̷
-
- -WhatsApp + Imo ➪ Không có người yêu nên không cho 🥱01704407109
-
- -Telegram ➪ +8801704407109 🥺🔥🥰
+ -FIRE ➪ ️༒ frnwot-❯⸙๏
 
  -Mail ➪ Inbox nếu cần
 
