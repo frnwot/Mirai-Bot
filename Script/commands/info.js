@@ -36,23 +36,20 @@ var link = ["https://i.imgur.com/1QaosHO.jpg",
 var callback = () => api.sendMessage({body:`ADMIN AND BOT INFORMATION 
 ________________________________________
 
-❇️🅑︎🅞︎🅣︎ 🅝︎🅐︎🅜︎🅔︎ : ${global.config.BOTNAME}
+BOT NAME       : ${global.config.BOTNAME}
 
-❇️𝐁𝐎𝐓 𝐀𝐅𝐌𝐈𝐍 : 𝐈𝐓𝐙 ABIR
-
-❇️𝐀𝐃𝐃𝐑𝐄𝐒𝐒 : RAJSHAHI 𝐂𝐈𝐓𝐘
+BOT ADMIN      : frnwot
+AGE            : 17
+ADDRESS        : Chattagram
 
 _____________CONTACT_____________
 
-❇️𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃: https://www.facebook.com/br4nd.abir.your.next.bf.fan
+FACEBOOK       : https://www.facebook.com/share/1FLjnAgh64/
 
-❇️𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄 : https://www.facebook.com/br4nd.abir.your.next.bf.fan🤟🤟
+BOT PREFIX     : ${global.config.PREFIX}
+BOT OWNER      : frnwot
 
-❇️𝐁𝐎𝐓 𝐏𝐑𝐄𝐅𝐈𝐗 : ${global.config.PREFIX}
-
-❇️𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑 : {𝐂𝐑𝐔𝐒𝐇 ABIR}
-
-OTHER NFORMATION____________________
+________________________________________
 
 TYPE /admin 
 
