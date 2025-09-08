@@ -13,7 +13,7 @@ module.exports.config = {
 
 module.exports.languages = {
   en: {
-    title: "🤍✨ ROBOT PREFIX ✨🤍",
+    title: " ROBOT PREFIX ",
     botName: "BOT NAME",
     prefix: "ROBOT PREFIX",
     cmdCount: "ROBOT CMD",
@@ -21,7 +21,7 @@ module.exports.languages = {
     group: "GROUP NAME"
   },
   vi: {
-    title: "🤍✨ TIỀN TỐ ROBOT ✨🤍",
+    title: "TIỀN TỐ ROBOT",
     botName: "TÊN BOT",
     prefix: "TIỀN TỐ",
     cmdCount: "LỆNH ĐÃ TẢI",
